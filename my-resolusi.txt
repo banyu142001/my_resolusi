@@ -1,0 +1,3 @@
+My Resolusi
+- Konsisten belajar programming setiap hari
+- Membuat sebuah progrman dengan codeihniter 3 dan 4
