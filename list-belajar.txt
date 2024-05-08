@@ -1,1 +1,5 @@
 Belajar apa hari ini ?
+  - Javascript dasar
+      - React JS
+  - PHP dasar
+  - Framework PHP
