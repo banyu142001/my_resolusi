@@ -3,3 +3,6 @@ My Resolusi
 - Membuat sebuah progrman dengan codeihniter 3 dan 4
 - Saya ingin bekerja di perusahaan besar
 - Membuat youtube channel
+- Belajar Framework PHP
+  - Codeigniter 4
+  - Laravel 11
